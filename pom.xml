@@ -48,7 +48,6 @@
         <artifactId>maven-war-plugin</artifactId>
         <version>3.4.0</version>
       </plugin>
-    </plugins>
 
       <plugin>
         <artifactId>maven-release-plugin</artifactId>
